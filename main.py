@@ -26,5 +26,7 @@ def main():
     else:
         print("Вы не ввели ни одного числа.")
 
+    input("Нажмите Enter, чтобы выйти...")
+
 if __name__ == "__main__":
     main()
